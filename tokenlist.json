@@ -1,0 +1,26 @@
+{
+    "name": "Fake USDT Token List",
+    "timestamp": "2024-03-20T00:00:00.000Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+    "keywords": [
+        "usdt",
+        "stablecoin"
+    ],
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0xE836812F32dBbCc58A62E450909bdD161c094eF6",
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+            "description": "A test USDT token on Ethereum mainnet"
+        }
+    ]
+}

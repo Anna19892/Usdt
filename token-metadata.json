@@ -1,0 +1,9 @@
+{
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "address": "0xE836812F32dBbCc58A62E450909bdD161c094eF6",
+    "chainId": 1,
+    "logo": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+    "type": "ERC20"
+}
